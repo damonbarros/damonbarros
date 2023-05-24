@@ -2,7 +2,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/damonbarrosdev/)
 [![LinkendIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damon-barros-a62437278/)
 
-![Damon GitHub stats](https://github-readme-stats.vercel.app/api?username=damonbarros&show_icons=true&theme=dracula)
+<div align="center">
+    <a href="https://github.com/damonbarros">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damonbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damonbarros&layout=compact&langs_count=7&theme=dark">
+</div>
 
 ## Tecnologias Utilizadas por mim no cotidiano:
 
@@ -14,7 +18,7 @@
    
 </div> <br/>
 
-# Damon Barros - Desenvolvedor Intermediário
+# Damon Barros - Desenvolvedor Web
 
 ## Sobre mim
 
